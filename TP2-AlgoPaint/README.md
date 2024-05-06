@@ -6,4 +6,4 @@ Los detalles del enunciado y especificaciones están disponibles en el siguiente
 
 ## Ejemplo de ejecución
 
-![Ejemplo de ejecución](imgs/ejecucion.gif)
+![Ejemplo de ejecución](imgs/ejecucion1.gif)

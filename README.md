@@ -8,14 +8,16 @@ Link a la [página de la materia](https://algoritmos1rw.ddns.net/).
 
 - TP1: [Unruly](TP1-Unruly/README.md)
 - TP2: [AlgoPaint](TP2-AlgoPaint/README.md)
-- TP3:
+- TP3: [AlgoPaint++](TP3-AlgoPaint++/README.md)
 
 ## Instrucciones de ejecución
 
-Abriendo la terminal desde el directorio donde se haya clonado el repositorio de la entrega que se desea ejecutar, utilizar el comando `python3 main.py`.
+Desde la terminal, accede al directorio donde se haya clonado el repositorio de la entrega que se desea ejecutar, y utiliza el comando `python3 main.py`.
 
 > [!NOTE]
-> Para que funcionen correctamente los programas que utilizan la librería _Gamelib_, es necesario tener instaldo `tkinter`:
->```
->sudo apt-get install python3-tk
->```
+> Para que funcionen correctamente los programas que utilizan la librería _Gamelib_, es necesario tener instalado **tkinter**:
+>
+>Linux: `sudo apt-get install python3-tk`
+>
+>Windows: `pip install tk`
+>
